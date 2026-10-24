@@ -1,0 +1,27 @@
+[17-Jan-2019 02:35:08 UTC] PHP Notice:  Undefined variable: nit in /home/u347475349/public_html/work/reportes/Boleta_Taller.php on line 125
+[17-Jan-2019 02:35:08 UTC] PHP Notice:  Undefined variable: numero_nrc in /home/u347475349/public_html/work/reportes/Boleta_Taller.php on line 127
+[17-Jan-2019 02:35:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/u347475349/public_html/work/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/u347475349/public_html/work/reportes/fpdf/fpdf.php(1452): FPDF->Error('The document is...')
+#1 /home/u347475349/public_html/work/reportes/fpdf/fpdf.php(567): FPDF->_out('q 0 g BT 64.63 ...')
+#2 /home/u347475349/public_html/work/reportes/Boleta_Taller.php(229): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/u347475349/public_html/work/reportes/fpdf/fpdf.php on line 271
+[17-Jan-2019 02:37:38 UTC] PHP Notice:  Undefined variable: nit in /home/u347475349/public_html/work/reportes/Boleta_Taller.php on line 125
+[17-Jan-2019 02:37:38 UTC] PHP Notice:  Undefined variable: numero_nrc in /home/u347475349/public_html/work/reportes/Boleta_Taller.php on line 127
+[17-Jan-2019 02:37:38 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/u347475349/public_html/work/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/u347475349/public_html/work/reportes/fpdf/fpdf.php(1452): FPDF->Error('The document is...')
+#1 /home/u347475349/public_html/work/reportes/fpdf/fpdf.php(567): FPDF->_out('q 0 g BT 64.63 ...')
+#2 /home/u347475349/public_html/work/reportes/Boleta_Taller.php(229): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/u347475349/public_html/work/reportes/fpdf/fpdf.php on line 271
+[17-Jan-2019 02:38:51 UTC] PHP Notice:  Undefined variable: nit in /home/u347475349/public_html/work/reportes/Boleta_Taller.php on line 125
+[17-Jan-2019 02:38:51 UTC] PHP Notice:  Undefined variable: numero_nrc in /home/u347475349/public_html/work/reportes/Boleta_Taller.php on line 127
+[17-Jan-2019 02:38:51 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: The document is closed in /home/u347475349/public_html/work/reportes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/u347475349/public_html/work/reportes/fpdf/fpdf.php(1452): FPDF->Error('The document is...')
+#1 /home/u347475349/public_html/work/reportes/fpdf/fpdf.php(567): FPDF->_out('q 0 g BT 64.63 ...')
+#2 /home/u347475349/public_html/work/reportes/Boleta_Taller.php(229): FPDF->Text(22.8, 5, 'ERROR AL IMPRIM...')
+#3 {main}
+  thrown in /home/u347475349/public_html/work/reportes/fpdf/fpdf.php on line 271
